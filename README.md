@@ -11,6 +11,9 @@ History
 --
 Created in 1998 and available online since, the library -originaly named MOCOlib- was dedicated to MultiObjective Combinatorial Optimization (MOCO) problems. 
 It is referenced from the International Society on Multiple Criteria Decision Making at `http://www.mcdmsociety.org/`, section Digital Library.
+Amongst the instances available, the library hosts instances used by us during the following research projects:
++ ANR project 'Guaranteed Efficiency for Pareto optimal solutions Determination in multiobjective combinatorial optimization problems'
++ ANR-DFG project 'Exact Efficient Solution of Mixed Integer Programming Problems with Multiple Objective Functions'
 
 News
 --
