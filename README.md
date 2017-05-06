@@ -2,7 +2,7 @@ VOPTlib: Library of numerical instances for MultiObjective Linear Optimization p
 ==
 	
 Created in 1998 and available online since, the library -originaly named MOCOlib- was dedicated to MultiObjective Combinatorial Optimization (MOCO) problems. 
-Since 2010, it is refered from the International Society on Multiple Criteria Decision Making at `http://www.mcdmsociety.org/`, section Digital Library.
+It is refered from the International Society on Multiple Criteria Decision Making at `http://www.mcdmsociety.org/`, section Digital Library.
 
 
 Currently, VOPTlib covers a variety of Multiobjective linear optimization problems. 
