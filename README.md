@@ -6,6 +6,6 @@ It is refered from the International Society on Multiple Criteria Decision Makin
 
 
 Currently, VOPTlib covers a variety of Multiobjective linear optimization problems. 
-It is organized in structured and non-structured classes of problems.
+It is organized in structured and non-structured problems.
 
 
