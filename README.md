@@ -28,35 +28,36 @@ It distinguishes the following problem classes:
 
     Several linear objectives; feasible region is a polyhedron with a structure; all variables are restricted to be binary.
 
-    - Linear assignment problem (LAP): 
+    - Linear assignment problem (LAP) 
 
-    - 0/1 unidimensional knapsack problem (01UKP):     
+    - 0/1 unidimensional knapsack problem (UKP)     
 
-    - 0/1 bidimensional knapsack problem (01BKP):  
+    - 0/1 bidimensional knapsack problem (BKP)  
     
-    - Set covering problem (SCP):      
+    - Set covering problem (SCP)    
     
-    - Uncapacited discrete facility location problem (UDFLP): 
+    - Set packing problem (SPP)    
     
-    - Single source capacited facility location problem (SSCFLP):
+    - Uncapacited discrete facility location problem (UDFLP) 
+    
+    - Single source capacited facility location problem (SSCFLP)
     
     Several linear objectives; feasible region is a polyhedron with a structure; some but not all of the variables are restricted to be integer.        
 
-    - Uncapacited mixed facility location problem (UMFLP): 
+    - Uncapacited mixed facility location problem (UMFLP) 
     
-    - Capacited facility location problem (CFLP):     
+    - Capacited facility location problem (CFLP)  
 
 
 + Multi-objective non-structured problems
 
     Several linear objectives; feasible region is a polyhedron; all variables are restricted to be integer.
     
-    - Integer program (MOIP): 
+    - Integer program (MOIP) 
     
-
     Several linear objectives; feasible region is a polyhedron; some but not all of the variables are restricted to be integer.
 
-    - Mixed integer program (MOMIP): 
+    - Mixed integer program (MOMIP)
     
 
 Download
