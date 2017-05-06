@@ -16,7 +16,7 @@ The repository is maintained by Xavier Gandibleux.
 News
 --
 
- 5/May/2017 	: New repository launched.
+05-May-2017: New repository launched.
  
 
 Problem Classes
@@ -24,26 +24,40 @@ Problem Classes
 VOPTlib is organized in structured and non-structured problems.
 It distinguishes the following problem classes:
 
-+ Structured problems
++ Multi-objective structured problems
 
-    - Multi-objective combinatorial program (MOCO): 
+    Several linear objectives; feasible region is a polyhedron with a structure; all variables are restricted to be binary.
+
+    - Linear assignment problem (LAP): 
+
+    - 0/1 unidimensional knapsack problem (01UKP):     
+
+    - 0/1 bidimensional knapsack problem (01BKP):  
     
-        Several linear objectives; feasible region is a polyhedron with a structure; all variables are restricted to be binary.
-
-    - Multi-objective mixed integer program (MOMIP): 
+    - Set covering problem (SCP):      
     
-        Several linear objectives; feasible region is a polyhedron; some but not all of the variables are restricted to be integer.
-
-+ Non-structured problems
-
-    - Multi-objective integer program (MOIP): 
+    - Uncapacited discrete facility location problem (UDFLP): 
     
-        Several linear objectives; feasible region is a polyhedron; all variables are restricted to be integer.
-
-
-    - Multi-objective mixed integer program (MOMIP): 
+    - Single source capacited facility location problem (SSCFLP):
     
-        Several linear objectives; feasible region is a polyhedron; some but not all of the variables are restricted to be integer.
+    Several linear objectives; feasible region is a polyhedron with a structure; some but not all of the variables are restricted to be integer.        
+
+    - Uncapacited mixed facility location problem (UMFLP): 
+    
+    - Capacited facility location problem (CFLP):     
+
+
++ Multi-objective non-structured problems
+
+    Several linear objectives; feasible region is a polyhedron; all variables are restricted to be integer.
+    
+    - Integer program (MOIP): 
+    
+
+    Several linear objectives; feasible region is a polyhedron; some but not all of the variables are restricted to be integer.
+
+    - Mixed integer program (MOMIP): 
+    
 
 Download
 --
