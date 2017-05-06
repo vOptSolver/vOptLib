@@ -15,18 +15,35 @@ The repository is maintained by Xavier Gandibleux.
 
 News
 --
-5/May/2017 	New repository launched.
+
+ 5/May/2017 	: New repository launched.
+ 
 
 Problem Classes
 --
 VOPTlib is organized in structured and non-structured problems.
 It distinguishes the following problem classes:
 
-Multi-objective combinatorial program 	moco 	Several linear objectives; feasible region is a convex polytope/polyhedron with a structure; all variables are restricted to be binary;
++ Structured problems
 
-Multi-objective integer program 	moip 	Several linear objectives; feasible region is a convex polytope/polyhedron; all variables are restricted to be integer;
+    - Multi-objective combinatorial program (MOCO): 
+    
+        Several linear objectives; feasible region is a polyhedron with a structure; all variables are restricted to be binary.
 
-Multi-objective mixed integer program 	momip 	Several linear objectives; feasible region is a convex polytope/polyhedron; some but not all of the variables are restricted to be integer;
+    - Multi-objective mixed integer program (MOMIP): 
+    
+        Several linear objectives; feasible region is a polyhedron; some but not all of the variables are restricted to be integer.
+
++ Non-structured problems
+
+    - Multi-objective integer program (MOIP): 
+    
+        Several linear objectives; feasible region is a polyhedron; all variables are restricted to be integer.
+
+
+    - Multi-objective mixed integer program (MOMIP): 
+    
+        Several linear objectives; feasible region is a polyhedron; some but not all of the variables are restricted to be integer.
 
 Download
 --
