@@ -38,10 +38,9 @@ The format of all of these data files is:
 Link to data.
 
 
-## References
+## Misc
 
-These data files are the test problem sets from
-
+Files contain data from
 > Xavier Gandibleux, David Vancoppenolle and Daniel Tuyttens.
  A first making use of GRASP for solving MOCO problems
  14th International Conference in Multiple Criteria Decision-Making
