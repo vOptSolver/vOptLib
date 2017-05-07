@@ -4,10 +4,10 @@
 ## Definition
 The set Packing problem with two objectives is defined as follow:
 
-    Max sum{i=1,…,n} c1(i) x(i)
-    Max sum{i=1,…,n} c2(i) x(i)
-    s/t sum{i=1,…,n} t(i,j) x(i) <= 1   for j=1,…,m
-        x(i) = 0 or 1                   for i=1,…,n
+    Max sum{j=1,…,n} c1(j) x(j)
+    Max sum{j=1,…,n} c2(j) x(j)
+    s/t sum{j=1,…,n} t(i,j) x(j) <= 1   for i=1,…,m
+        x(j) = 0 or 1                   for j=1,…,n
 
 ## Description
 There are currently 120 data files.
@@ -29,9 +29,9 @@ The format is originally from the OR library extended for handling multiple obje
 The format of all of these data files is:
 
     number of rows (m), number of columns (n)
-    the cost of each column for objective 1 c1(i),i=1,…,n
-    the cost of each column for objective 2 c2(i),i=1,…,n
-    for each row j (j=1,…,m): the number of columns which cover row j followed by a list of the columns which cover row j
+    the cost of each column for objective 1 c1(j),j=1,…,n
+    the cost of each column for objective 2 c2(j),j=1,…,n
+    for each row i (i=1,…,m): the number of columns which cover row i followed by a list of the columns which cover row i
 
 ## Files
 Link to [data files](http://www.emse.fr/%7Edelorme/SetPacking.html#BOSPP).
