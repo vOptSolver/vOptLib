@@ -26,7 +26,7 @@ It distinguishes the following problem classes:
 
     - Linear assignment problem (LAP) 
 
-    - 0/1 unidimensional knapsack problem (UKP)     
+    - [0/1 unidimensional knapsack problem (UKP)](UKP/readme.md)     
 
     - 0/1 bidimensional knapsack problem (BKP)  
     
