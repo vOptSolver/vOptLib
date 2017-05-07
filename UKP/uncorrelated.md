@@ -53,4 +53,52 @@ a report about the numerical characteristics, the set of non dominated points, t
 
 ## Instances:
 
-Data and results : 
+    2KP50-11.dat 
+    2KP50-50.dat 
+    2KP50-92.dat 
+    2KP100-50.dat     
+    2KP500-41.dat 
+
+    2KP50-1B.dat     
+    2KP100-1B.dat 
+    2KP150-1B.dat 
+    2KP200-1B.dat 
+    2KP250-1B.dat 
+    2KP300-1B.dat 
+    2KP350-1B.dat 
+    2KP400-1B.dat 
+    2KP450-1B.dat 
+    2KP500-1B.dat 
+    
+    2KP50-1A.dat 
+    2KP100-1A.dat 
+    2KP150-1A.dat 
+    2KP200-1A.dat 
+    2KP250-1A.dat 
+    2KP300-1A.dat 
+    2KP350-1A.dat 
+    2KP400-1A.dat 
+    2KP450-1A.dat 
+    2KP500-1A.dat 
+    
+    F5050W01.dat 
+    F5050W02.dat 
+    F5050W03.dat 
+    F5050W04.dat 
+    F5050W05.dat 
+    F5050W06.dat 
+    F5050W07.dat 
+    F5050W08.dat 
+    F5050W09.dat 
+    F5050W10.dat 
+    
+    K5050W01.dat 
+    K5050W02.dat 
+    K5050W03.dat 
+    K5050W04.dat 
+    K5050W05.dat 
+    K5050W06.dat 
+    K5050W07.dat 
+    K5050W08.dat 
+    K5050W09.dat 
+    K5050W10.dat 
