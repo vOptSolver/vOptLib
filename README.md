@@ -30,7 +30,7 @@ It distinguishes the following problem classes:
 
     - 0/1 bidimensional knapsack problem (BKP)  
     
-    - Set covering problem (SCP)    
+    - [Set covering problem (SCP)](SCP/readme.md)    
     
     - [Set packing problem (SPP)](SPP/readme.md)    
     
