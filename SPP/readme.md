@@ -7,7 +7,7 @@ The set Packing problem with two objectives is defined as follow:
     Max sum{i=1,…,n} c1(i) x(i)
     Max sum{i=1,…,n} c2(i) x(i)
     s/t sum{i=1,…,n} t(i,j) x(i) <= 1   for j=1,…,m
-        x(i)=0 or 1                     for i=1,...,n
+        x(i) = 0 or 1                   for i=1,…,n
 
 ## Description
 There are currently 120 data files.
