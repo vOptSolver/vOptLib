@@ -2,7 +2,7 @@
 	
 ## About 
 VOPTlib (short for vector optimization library) is a collection problem instances for benchmarking multi-objective solvers.
-It covers a variety of Multiobjective linear optimization problems (multiobjective combinatorial, multiobjective integer linear, multiobjective mixed integer programs).
+It covers a variety of Multiobjective linear optimization problems (multiobjective combinatorial problems, multiobjective integer linear programs, multiobjective mixed integer programs).
 The repository is maintained by Xavier.Gandibleux@univ-nantes.fr
 
 ## History
@@ -20,7 +20,7 @@ Amongst the instances available, the library hosts instances used by us during t
 VOPTlib is organized in structured and non-structured problems.
 It distinguishes the following problem classes:
 
-+ Multi-objective structured problems
++ **Multi-objective structured problems**
 
     Several linear objectives; feasible region is a polyhedron with a structure; all variables are restricted to be binary.
 
@@ -45,7 +45,7 @@ It distinguishes the following problem classes:
     - Capacited facility location problem (CFLP)  
 
 
-+ Multi-objective non-structured problems
++ **Multi-objective non-structured problems**
 
     Several linear objectives; feasible region is a polyhedron; all variables are restricted to be integer.
     
