@@ -24,7 +24,7 @@ It distinguishes the following problem classes:
 
     Several linear objectives; feasible region is a polyhedron with a structure; all variables are restricted to be binary.
 
-    - Linear assignment problem (LAP) 
+    - [Linear assignment problem (LAP)](LAP/readme.md) 
 
     - [0/1 unidimensional knapsack problem (UKP)](UKP/readme.md)     
 
