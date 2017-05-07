@@ -19,9 +19,12 @@ Lines of comments begin by #.
 
 
 ## Instances:
-+ With the exception of the instances referenced 1A, all instances have a tightness ratio W / (Sum{i=1,...n} w(i)) = 0.5.
-+ Additional Informations (provided when available) for these instances in are: 
-a report about the numerical characteristics, the set of non dominated points, the maximum complete set of solutions. 
+ 
+Legend:
++ ID: instance's name
++ INFO: report about the numerical characteristics
++ Y_N: set of non dominated points 
++ X_E_M: Maximum complete set of efficient solutions
 
 
 ***
@@ -31,12 +34,14 @@ a report about the numerical characteristics, the set of non dominated points, t
 
 The instances are denoted by 2KPn-c.dat where n is the size of the problem, and 0.c is the tightness ratio. 
 The objective costs and the weights are generated according to a uniform distribution respectively in {30,...100} and in {20,...500}. 
-    
-    2KP50-11.dat 
-    2KP50-50.dat 
-    2KP50-92.dat 
-    2KP100-50.dat     
-    2KP500-41.dat 
+
+| ID            | INFO  | Y_N   | X_E_M | 
+| ------------- | ----- | ----- | ----- |
+| 2KP50-11.dat  | 
+| 2KP50-50.dat  |
+| 2KP50-92.dat  |
+| 2KP100-50.dat |    
+| 2KP500-41.dat |
 
 Files contain data from [1]:
 
@@ -50,17 +55,20 @@ Files contain data from [1]:
 
 The instances are denoted by 2KPn-1A.dat where n is the size of the problem. 
 The objective costs and the weights are generated according to a uniform distribution in [1,...,100]. 
+All instances have a tightness ratio W / (Sum{i=1,...n} w(i)) = 0.5.
 
-    2KP50-1A.dat 
-    2KP100-1A.dat 
-    2KP150-1A.dat 
-    2KP200-1A.dat 
-    2KP250-1A.dat 
-    2KP300-1A.dat 
-    2KP350-1A.dat 
-    2KP400-1A.dat 
-    2KP450-1A.dat 
-    2KP500-1A.dat 
+| ID            | INFO  | Y_N   | X_E_M | 
+| ------------- | ----- | ----- | ----- |
+| 2KP50-1A.dat  |
+| 2KP100-1A.dat |
+| 2KP150-1A.dat |
+| 2KP200-1A.dat |
+| 2KP250-1A.dat |
+| 2KP300-1A.dat |
+| 2KP350-1A.dat |
+| 2KP400-1A.dat |
+| 2KP450-1A.dat |
+| 2KP500-1A.dat |
 
 Files contain data from [2]:
 
@@ -75,17 +83,20 @@ Files contain data from [2]:
 The instances are denoted by 2KPn-1B.dat where n is the size of the problem. 
 The first objective cost and the weights are generated according to a uniform distribution in [1,...,100]. 
 The second objective is obtained by taking the objective cost of the first one in reverse order. 
+All instances have a tightness ratio W / (Sum{i=1,...n} w(i)) = 0.5.
 
-    2KP50-1B.dat     
-    2KP100-1B.dat 
-    2KP150-1B.dat 
-    2KP200-1B.dat 
-    2KP250-1B.dat 
-    2KP300-1B.dat 
-    2KP350-1B.dat 
-    2KP400-1B.dat 
-    2KP450-1B.dat 
-    2KP500-1B.dat 
+| ID            | INFO  | Y_N   | X_E_M | 
+| ------------- | ----- | ----- | ----- |
+| 2KP50-1B.dat  |    
+| 2KP100-1B.dat | 
+| 2KP150-1B.dat | 
+| 2KP200-1B.dat | 
+| 2KP250-1B.dat | 
+| 2KP300-1B.dat | 
+| 2KP350-1B.dat | 
+| 2KP400-1B.dat | 
+| 2KP450-1B.dat | 
+| 2KP500-1B.dat | 
 
 Files contain data from [3]:
 
@@ -100,28 +111,31 @@ Files contain data from [3]:
 The objective costs and the weights of the instances 2/UNCOR are both generated according to a uniform distribution in [1,...,300] or [1,...,1000]. 
 All these instances have the same size n = 50. 
 These instances are denoted by F5050Wx.dat (instances generated with numbers in [1,...,300]) or K5050Wx.dat (instances generated with numbers in [1,...,1000]), x denotes the number of the instance. 
+All instances have a tightness ratio W / (Sum{i=1,...n} w(i)) = 0.5.
 
-    F5050W01.dat 
-    F5050W02.dat 
-    F5050W03.dat 
-    F5050W04.dat 
-    F5050W05.dat 
-    F5050W06.dat 
-    F5050W07.dat 
-    F5050W08.dat 
-    F5050W09.dat 
-    F5050W10.dat 
-    
-    K5050W01.dat 
-    K5050W02.dat 
-    K5050W03.dat 
-    K5050W04.dat 
-    K5050W05.dat 
-    K5050W06.dat 
-    K5050W07.dat 
-    K5050W08.dat 
-    K5050W09.dat 
-    K5050W10.dat 
+| ID            | INFO  | Y_N   | X_E_M | 
+| ------------- | ----- | ----- | ----- |
+| F5050W01.dat  | 
+| F5050W02.dat  | 
+| F5050W03.dat  | 
+| F5050W04.dat  | 
+| F5050W05.dat  | 
+| F5050W06.dat  | 
+| F5050W07.dat  | 
+| F5050W08.dat  | 
+| F5050W09.dat  | 
+| F5050W10.dat  | 
+|               | 
+| K5050W01.dat  | 
+| K5050W02.dat  | 
+| K5050W03.dat  | 
+| K5050W04.dat  | 
+| K5050W05.dat  | 
+| K5050W06.dat  | 
+| K5050W07.dat  | 
+| K5050W08.dat  | 
+| K5050W09.dat  | 
+| K5050W10.dat  | 
     
 Files contain data from [4]:
 
