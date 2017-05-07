@@ -8,7 +8,22 @@ The 01 unidimensional knapsack problem with $`p`$ linear objectives is defined a
     s/t sum{j=1,…,n} w_j x_j <= W
         x_j = 0 or 1                for j = 1,…,n
         
-## Datasets
+## Datasets with 2 objectives
 
-+ For the two objective case
-+ For the three objective case
+    | Characteristics                                                         | #instances   | 
+    | ----------------------------------------------------------------------- | ------------ | 
+    | Uncorrelated Instances                                                  | ?            | 
+    | Instances with repeated costs                                           | ?            | 
+    | Instances with a positive correlation between weights and objective(s)  | ?            | 
+    | Instances with positively correlated objectives                         | ?            | 
+    | Instances with negatively correlated objectives                         | ?            | 
+    | Hansen instances                                                        | ?            | 
+
+
+## Datasets with 3 objectives
+
+    | Characteristics                                                         | #instances   | 
+    | ----------------------------------------------------------------------- | ------------ | 
+    | Uncorrelated Instances                                                  | ?            | 
+
+
