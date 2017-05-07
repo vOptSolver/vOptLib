@@ -1,1 +1,0 @@
-# Multiobjective linear assignment problem (LAP) 
