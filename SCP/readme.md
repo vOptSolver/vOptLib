@@ -4,9 +4,9 @@
 ## Definition	
 The set covering problem with two objectives is defined as follow:
 
-    Min  sum{j=1,…,n} c1(j) x(j)
-    Min  sum{j=1,…,n} c2(j) x(j)
-    s/t  sum{j=1,…,n} t(i,j) x(j) >= 1  for i=1,…,m
+    Min sum{j=1,…,n} c1(j) x(j)
+    Min sum{j=1,…,n} c2(j) x(j)
+    s/t sum{j=1,…,n} t(i,j) x(j) >= 1  for i=1,…,m
          x(j)=0 or 1                    for j=1,...,n
 
 
@@ -35,11 +35,10 @@ The format of all of these data files is:
 
 
 ## Files
-Link to data.
+Link to data files.
 
 
 ## Misc
-
 Files contain data from
 > Xavier Gandibleux, David Vancoppenolle and Daniel Tuyttens.
  A first making use of GRASP for solving MOCO problems
