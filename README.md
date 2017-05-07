@@ -32,7 +32,7 @@ It distinguishes the following problem classes:
     
     - Set covering problem (SCP)    
     
-    - Set packing problem (SPP)    
+    - [Set packing problem (SPP)](SPP/readme.md)    
     
     - Uncapacited binary facility location problem (UBFLP) 
     
