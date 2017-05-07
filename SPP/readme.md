@@ -29,12 +29,12 @@ The format is originally from the OR library extended for handling multiple obje
 The format of all of these data files is:
 
     number of rows (m), number of columns (n)
-    the cost of each column for objective 1 c1(i),i=1,...,n
-    the cost of each column for objective 2 c2(i),i=1,...,n
-    for each row j (j=1,...,m): the number of columns which cover row j followed by a list of the columns which cover row j
+    the cost of each column for objective 1 c1(i),i=1,…,n
+    the cost of each column for objective 2 c2(i),i=1,…,n
+    for each row j (j=1,…,m): the number of columns which cover row j followed by a list of the columns which cover row j
 
 ## Files
-Link to data files.
+Link to [data files](http://www.emse.fr/%7Edelorme/SetPacking.html#BOSPP).
 
 
 ## Misc
