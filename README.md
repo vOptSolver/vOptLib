@@ -28,7 +28,7 @@ It distinguishes the following problem classes:
 
     - [0/1 unidimensional knapsack problem (UKP)](UKP/readme.md)     
 
-    - 0/1 bidimensional knapsack problem (BKP)  
+    - [0/1 bidimensional knapsack problem (BKP)](BKP/readme.md)  
     
     - [Set covering problem (SCP)](SCP/readme.md)    
     
