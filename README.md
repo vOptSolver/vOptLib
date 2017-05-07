@@ -3,7 +3,7 @@
 ## About 
 VOPTlib (short for vector optimization library) is a collection problem instances for benchmarking multi-objective solvers.
 It covers a variety of Multiobjective linear optimization problems (multiobjective combinatorial problems, multiobjective integer linear programs, multiobjective mixed integer programs).
-The repository is maintained by Xavier.Gandibleux@univ-nantes.fr
+The repository is maintained by Xavier.Gandibleux@univ-nantes.fr and Anthony.Przybylski@univ-nantes.fr
 
 ## History
 Created in 1998 and available online since, the library -originaly named MOCOlib- was dedicated to MultiObjective Combinatorial Optimization problems. 
