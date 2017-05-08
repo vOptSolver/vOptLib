@@ -65,8 +65,8 @@ The objective costs and the weights are generated according to a uniform distrib
 All instances have a tightness ratio W / (Sum{i=1,...n} w(i)) = 0.5.
 There are 10 instances:
 
-| ID            | INFO  | Y_N   | X_E_M | 
-| ------------- | ----- | ----- | ----- |
+| ID            | Available | 
+| ------------- | --------- |
 | 2KP50-1A.dat  |
 | 2KP100-1A.dat |
 | 2KP150-1A.dat |
@@ -94,8 +94,8 @@ The second objective is obtained by taking the objective cost of the first one i
 All instances have a tightness ratio W / (Sum{i=1,...n} w(i)) = 0.5.
 There are 10 instances:
 
-| ID            | INFO  | Y_N   | X_E_M | 
-| ------------- | ----- | ----- | ----- |
+| ID            | Available | 
+| ------------- | --------- |
 | 2KP50-1B.dat  |    
 | 2KP100-1B.dat | 
 | 2KP150-1B.dat | 
@@ -123,8 +123,8 @@ These instances are denoted by F5050Wx.dat (instances generated with numbers in 
 All instances have a tightness ratio W / (Sum{i=1,...n} w(i)) = 0.5.
 There are 20 instances:
 
-| ID            | INFO  | Y_N   | X_E_M | 
-| ------------- | ----- | ----- | ----- |
+| ID            | Available | 
+| ------------- | --------- |
 | F5050W01.dat  | 
 | F5050W02.dat  | 
 | F5050W03.dat  | 
