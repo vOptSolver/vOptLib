@@ -5,13 +5,6 @@ VOPTlib (short for vector optimization library) is a collection problem instance
 It covers a variety of Multiobjective linear optimization problems (multiobjective combinatorial problems, multiobjective integer linear programs, multiobjective mixed integer programs).
 The repository is maintained by Xavier.Gandibleux@univ-nantes.fr and Anthony.Przybylski@univ-nantes.fr
 
-## History
-Created in 1998 and available online since, the library -originaly named MOCOlib- was dedicated to MultiObjective Combinatorial Optimization problems. 
-It is referenced from the [International Society on Multiple Criteria Decision Making](http://www.mcdmsociety.org/), section Digital Library.
-Amongst the instances available, the library hosts instances used by us during the following research projects:
-+ ANR project 'Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems'
-+ ANR-DFG project 'Exact efficient solution of mixed integer programming problems with multiple objective functions'
-
 ## News
 05-May-2017: New repository launched.
  
@@ -59,3 +52,12 @@ It distinguishes the following problem classes:
 ## Download
 The following instances can be downloaded and used for free. 
 If you use them for your research, we would appreciate a reference to VOPTlib in your publication. 
+
+
+## History
+Created in 1998 and available online since, the library -originaly named MOCOlib- was dedicated to MultiObjective Combinatorial Optimization problems. 
+It is referenced from the [International Society on Multiple Criteria Decision Making](http://www.mcdmsociety.org/), section Digital Library.
+Amongst the instances available, the library hosts instances used by us during the following research projects:
++ ANR project 'Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems'
++ ANR-DFG project 'Exact efficient solution of mixed integer programming problems with multiple objective functions'
+
