@@ -1,4 +1,4 @@
-# UKP: Uncorrelated Instances 
+# UKP: uncorrelated bi-objective instances 
 These are classical instances. 
 The costs c1(i), c2(i) and the weights w(i) are generated independently following a uniform distribution in a given set. 
 There is no correlation neither between the objective costs, nor between any objective cost and the weight.
