@@ -26,11 +26,11 @@ ID : instance's name
 
 [![instance file](./img/icon/dl-instance.png "instance file")](instances/) : instance's file 
 
-![INFO file](./img/icon/dl-info.png "INFO file") : report about the numerical characteristics
+[![INFO file](./img/icon/dl-info.png "INFO file")](analyze/) : report about the numerical characteristics
 
-![Y_N file](./img/icon/dl-z.png "Y_N file") : set of non dominated points
+[![Y_N file](./img/icon/dl-z.png "Y_N file")](Y/) : set of non dominated points
 
-![X_E_M file](./img/icon/dl-x.png "X_E_M file") : Maximum complete set of efficient solutions
+[![X_E_M file](./img/icon/dl-x.png "X_E_M file")](X/) : Maximum complete set of efficient solutions
 
 
 ***
