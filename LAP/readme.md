@@ -9,7 +9,13 @@ The linear assigment problem with $`p`$ linear objectives is defined as follow:
         sum{j=1,…,n} x_{i,j} = 1                    for i = 1,…,n
         x_{i,j} = 0 or 1             for i = 1,…,n, for j = 1,…,n
         
-## Datasets
+## Datasets 
 
-+ For the two objective case
-+ For the three objective case
++ **with 2 objectives:**
+
+    - to add                                                    
+
+
++ **with 3 objectives:**
+
+    - to add
