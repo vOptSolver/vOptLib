@@ -12,6 +12,6 @@ The set covering problem with two objectives is defined as follow:
 
 ## Datasets 
 
-+ [Series 1998](scp1998.md)                                                    
++ [SCP1998](scp1998.md)                                                    
 
 
