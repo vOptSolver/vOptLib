@@ -34,6 +34,7 @@ Legend:
 
 The instances are denoted by 2KPn-c.dat where n is the size of the problem, and 0.c is the tightness ratio. 
 The objective costs and the weights are generated according to a uniform distribution respectively in {30,...100} and in {20,...500}. 
+There are 05 instances:
 
 | ID            | INFO  | Y_N   | X_E_M | 
 | ------------- | ----- | ----- | ----- |
@@ -56,6 +57,7 @@ Files contain data from [1]:
 The instances are denoted by 2KPn-1A.dat where n is the size of the problem. 
 The objective costs and the weights are generated according to a uniform distribution in [1,...,100]. 
 All instances have a tightness ratio W / (Sum{i=1,...n} w(i)) = 0.5.
+There are 10 instances:
 
 | ID            | INFO  | Y_N   | X_E_M | 
 | ------------- | ----- | ----- | ----- |
@@ -84,6 +86,7 @@ The instances are denoted by 2KPn-1B.dat where n is the size of the problem.
 The first objective cost and the weights are generated according to a uniform distribution in [1,...,100]. 
 The second objective is obtained by taking the objective cost of the first one in reverse order. 
 All instances have a tightness ratio W / (Sum{i=1,...n} w(i)) = 0.5.
+There are 10 instances:
 
 | ID            | INFO  | Y_N   | X_E_M | 
 | ------------- | ----- | ----- | ----- |
@@ -112,6 +115,7 @@ The objective costs and the weights of the instances 2/UNCOR are both generated 
 All these instances have the same size n = 50. 
 These instances are denoted by F5050Wx.dat (instances generated with numbers in [1,...,300]) or K5050Wx.dat (instances generated with numbers in [1,...,1000]), x denotes the number of the instance. 
 All instances have a tightness ratio W / (Sum{i=1,...n} w(i)) = 0.5.
+There are 20 instances:
 
 | ID            | INFO  | Y_N   | X_E_M | 
 | ------------- | ----- | ----- | ----- |
