@@ -67,16 +67,16 @@ There are 10 instances:
 
 | ID            | Available | 
 | ------------- | --------- |
-| 2KP50-1A.dat  |
-| 2KP100-1A.dat |
-| 2KP150-1A.dat |
-| 2KP200-1A.dat |
-| 2KP250-1A.dat |
-| 2KP300-1A.dat |
-| 2KP350-1A.dat |
-| 2KP400-1A.dat |
-| 2KP450-1A.dat |
-| 2KP500-1A.dat |
+| 2KP50-1A.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-A) |
+| 2KP100-1A.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-A) |
+| 2KP150-1A.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-A) |
+| 2KP200-1A.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-A) |
+| 2KP250-1A.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-A) |
+| 2KP300-1A.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-A) |
+| 2KP350-1A.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-A) |
+| 2KP400-1A.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-A) |
+| 2KP450-1A.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-A) |
+| 2KP500-1A.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-A) |
 
 Files contain data from [2]:
 
@@ -96,16 +96,16 @@ There are 10 instances:
 
 | ID            | Available | 
 | ------------- | --------- |
-| 2KP50-1B.dat  |    
-| 2KP100-1B.dat | 
-| 2KP150-1B.dat | 
-| 2KP200-1B.dat | 
-| 2KP250-1B.dat | 
-| 2KP300-1B.dat | 
-| 2KP350-1B.dat | 
-| 2KP400-1B.dat | 
-| 2KP450-1B.dat | 
-| 2KP500-1B.dat | 
+| 2KP50-1B.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-B) |   
+| 2KP100-1B.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-B) | 
+| 2KP150-1B.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-B) | 
+| 2KP200-1B.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-B) | 
+| 2KP250-1B.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-B) | 
+| 2KP300-1B.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-B) | 
+| 2KP350-1B.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-B) | 
+| 2KP400-1B.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-B) | 
+| 2KP450-1B.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-B) | 
+| 2KP500-1B.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-B) | 
 
 Files contain data from [3]:
 
@@ -125,27 +125,27 @@ There are 20 instances:
 
 | ID            | Available | 
 | ------------- | --------- |
-| F5050W01.dat  | 
-| F5050W02.dat  | 
-| F5050W03.dat  | 
-| F5050W04.dat  | 
-| F5050W05.dat  | 
-| F5050W06.dat  | 
-| F5050W07.dat  | 
-| F5050W08.dat  | 
-| F5050W09.dat  | 
-| F5050W10.dat  | 
+| F5050W01.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) | 
+| F5050W02.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| F5050W03.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| F5050W04.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| F5050W05.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| F5050W06.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| F5050W07.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| F5050W08.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| F5050W09.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| F5050W10.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
 |               | 
-| K5050W01.dat  | 
-| K5050W02.dat  | 
-| K5050W03.dat  | 
-| K5050W04.dat  | 
-| K5050W05.dat  | 
-| K5050W06.dat  | 
-| K5050W07.dat  | 
-| K5050W08.dat  | 
-| K5050W09.dat  | 
-| K5050W10.dat  | 
+| K5050W01.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| K5050W02.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| K5050W03.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| K5050W04.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| K5050W05.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| K5050W06.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| K5050W07.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| K5050W08.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| K5050W09.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
+| K5050W10.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/2-UNCOR) |
     
 Files contain data from [4]:
 
