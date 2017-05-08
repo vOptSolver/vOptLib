@@ -10,4 +10,8 @@ The set covering problem with two objectives is defined as follow:
          x(j) = 0 or 1                  for j=1,…,n
 
 
+## Datasets 
+
++ [SCP A/B/C/D 1998](scp1998.md)                                                    
+
 
