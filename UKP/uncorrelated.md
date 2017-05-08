@@ -21,10 +21,11 @@ Lines of comments begin by #.
 ## Instances:
  
 Legend:
-+ ![instance file](./img/icon/dl-instance.png "instance file") ID: instance's name
-+ INFO: report about the numerical characteristics
-+ Y_N: set of non dominated points 
-+ X_E_M: Maximum complete set of efficient solutions
++ ID: instance's name
++ ![instance file](./img/icon/dl-instance.png "instance file") instance's file 
++ ![info file](./img/icon/dl-info.png "info file") INFO (report about the numerical characteristics)
++ ![Y_N file](./img/icon/dl-z.png "Y_N file") Y_N (set of non dominated points)
++ ![X_E_M file](./img/icon/dl-x.png "X_E_M file") X_E_M (Maximum complete set of efficient solutions)
 
 
 ***
