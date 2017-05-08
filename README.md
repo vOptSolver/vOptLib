@@ -64,4 +64,4 @@ Amongst the instances available, the library hosts instances used by us during t
 The obsolete (but active) URL's are:
 + [MCDMlib (opened in 1998)](http://web.archive.org/web/20061205225020/http://www.univ-valenciennes.fr:80/ROAD/MCDM/)
 + [MOCOlib, the MOCO section of the MCDMlib (opened in 2007)](http://xgandibleux.free.fr/MOCOlib/index.html)
-+ [GUEPARDlib (opened in 2009)](http://guepard.lip6.fr/Main/GuepardLib)
++ [GUEPARDlib (opened in 2010)](http://guepard.lip6.fr/Main/GuepardLib)
