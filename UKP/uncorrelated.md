@@ -24,7 +24,7 @@ Legend:
 
 ID : instance's name
 
-[![instance file](./img/icon/dl-instance.png "instance file")](../ukp/instance) : instance's file 
+[![instance file](./img/icon/dl-instance.png "instance file")](./ukp/instance) : instance's file 
 
 ![INFO file](./img/icon/dl-info.png "INFO file") : report about the numerical characteristics
 
