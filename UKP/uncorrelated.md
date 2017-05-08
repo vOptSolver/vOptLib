@@ -21,11 +21,16 @@ Lines of comments begin by #.
 ## Instances:
  
 Legend:
-+ ID: instance's name
-+ ![instance file](./img/icon/dl-instance.png "instance file") : instance's file 
-+ ![INFO file](./img/icon/dl-info.png "INFO file") : report about the numerical characteristics
-+ ![Y_N file](./img/icon/dl-z.png "Y_N file") : set of non dominated points
-+ ![X_E_M file](./img/icon/dl-x.png "X_E_M file") : Maximum complete set of efficient solutions
+
+ID : instance's name
+
+![instance file](./img/icon/dl-instance.png "instance file") : instance's file 
+
+![INFO file](./img/icon/dl-info.png "INFO file") : report about the numerical characteristics
+
+![Y_N file](./img/icon/dl-z.png "Y_N file") : set of non dominated points
+
+![X_E_M file](./img/icon/dl-x.png "X_E_M file") : Maximum complete set of efficient solutions
 
 
 ***
@@ -37,13 +42,13 @@ The instances are denoted by 2KPn-c.dat where n is the size of the problem, and 
 The objective costs and the weights are generated according to a uniform distribution respectively in {30,...100} and in {20,...500}. 
 There are 05 instances:
 
-| ID            | INFO  | Y_N   | X_E_M | 
-| ------------- | ----- | ----- | ----- |
-| 2KP50-11.dat  | 
-| 2KP50-50.dat  |
-| 2KP50-92.dat  |
-| 2KP100-50.dat |    
-| 2KP500-41.dat |
+| ID            | Available | 
+| ------------- | --------- |
+| 2KP50-11.dat  | ![instance file](./img/icon/dl-instance.png "instance file"). ![INFO file](./img/icon/dl-info.png "INFO file")   ![Y_N file](./img/icon/dl-z.png "Y_N file")  ![X_E_M file](./img/icon/dl-x.png "X_E_M file") |
+| 2KP50-50.dat  | ![instance file](./img/icon/dl-instance.png "instance file"). ![INFO file](./img/icon/dl-info.png "INFO file")   ![Y_N file](./img/icon/dl-z.png "Y_N file")  ![X_E_M file](./img/icon/dl-x.png "X_E_M file") |
+| 2KP50-92.dat  | ![instance file](./img/icon/dl-instance.png "instance file"). ![INFO file](./img/icon/dl-info.png "INFO file")   ![Y_N file](./img/icon/dl-z.png "Y_N file")  ![X_E_M file](./img/icon/dl-x.png "X_E_M file") |
+| 2KP100-50.dat | ![instance file](./img/icon/dl-instance.png "instance file"). ![INFO file](./img/icon/dl-info.png "INFO file")   ![Y_N file](./img/icon/dl-z.png "Y_N file")  ![X_E_M file](./img/icon/dl-x.png "X_E_M file") |   
+| 2KP500-41.dat | ![instance file](./img/icon/dl-instance.png "instance file"). ![INFO file](./img/icon/dl-info.png "INFO file")   ![Y_N file](./img/icon/dl-z.png "Y_N file")  ![X_E_M file](./img/icon/dl-x.png "X_E_M file") |
 
 Files contain data from [1]:
 
