@@ -12,4 +12,4 @@ The set Packing problem with two objectives is defined as follow:
 
 ## Datasets 
 
-+ [SPP2002](SPP2002.md) -- [Mirror site:](http://www.emse.fr/%7Edelorme/SetPacking.html#BOSPP).  
++ [SPP2002](SPP2002.md) -- Link to the [mirror site](http://www.emse.fr/%7Edelorme/SetPacking.html#BOSPP).  
