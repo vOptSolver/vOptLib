@@ -13,7 +13,7 @@ The 01 unidimensional knapsack problem with $`p`$ linear objectives is defined a
 + **with 2 objectives:**
 
     - [Uncorrelated Instances](uncorrelated.md)                                                    
-    - Instances with repeated costs                                            
+    - [Instances with repeated costs](repeatedCosts.md)                                            
     - Instances with a positive correlation between weights and objective(s)   
     - Instances with positively correlated objectives                          
     - Instances with negatively correlated objectives                           
