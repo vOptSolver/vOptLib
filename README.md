@@ -58,8 +58,8 @@ If you use them for your research, we would appreciate a reference to VOPTlib in
 Created in 1998 and available online since, the library -originaly named MCDMlib and later the MOCOlib- was dedicated to MultiObjective Combinatorial Optimization problems. 
 It is referenced from the [International Society on Multiple Criteria Decision Making](http://www.mcdmsociety.org/), section Digital Library.
 Amongst the instances available, the library hosts instances used by us during the following research projects:
-+ ANR project 'Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems'
-+ ANR-DFG project 'Exact efficient solution of mixed integer programming problems with multiple objective functions'
++ ANR project *Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems*
++ ANR-DFG project *Exact efficient solution of mixed integer programming problems with multiple objective functions*
 
 The obsolete (but active) URL's are:
 + [MCDMlib (opened in 1998)](http://web.archive.org/web/20061205225020/http://www.univ-valenciennes.fr:80/ROAD/MCDM/)
