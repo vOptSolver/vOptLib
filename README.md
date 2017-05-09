@@ -56,7 +56,7 @@ If you use them for your research, we would appreciate a reference to VOPTlib in
 
 ## History
 Created in 1998 and available online since, the library -originaly named MCDMlib and later the MOCOlib- was dedicated to MultiObjective Combinatorial Optimization problems. 
-It is referenced from 
+It is referenced from: 
 + the [International Society on Multiple Criteria Decision Making](http://www.mcdmsociety.org/), section *Digital Library*
 + the [OR-Library](http://people.brunel.ac.uk/~mastjjb/jeb/info.html), item *Multiobjective optimisation*
 
