@@ -10,11 +10,13 @@ This kind of instances have been proposed in the following paper.
  5e journée du groupe de travail Programmation Mathématique MultiObjectif (PM20), Angers, France, 17 mai 2002. 
 
 There are two subclasses in the instances provided by [1]: C and D. 
+
 We describe first the generation of instances of class C. 
 A process is repeated to generated both objective costs. 
 The length l of a plateau is generated following an uniform distribution in {1,...,0.1n} where n is the size of the problem. 
 A cost is generated following an uniform distribution in {1,...,100} and is repeated l times. 
 The weights are generated independently following an uniform distribution in {1,...,100}. 
+
 The instances of class D are obtained from the instances of class C by replacing the first objective by the second in reverse order.
 
 These instances are denoted by 2KPn-1C.dat or 2KPn-1D.dat where n is the size of the problem. 
