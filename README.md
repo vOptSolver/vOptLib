@@ -64,7 +64,7 @@ Amongst the instances available, the library hosts instances used by us during t
 + ANR project [Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems](http://guepard.lip6.fr/)
 + ANR-DFG project [Exact efficient solution of mixed integer programming problems with multiple objective functions](https://voptproject.wordpress.com/)
 
-The obsolete (but active) URL's are:
+The obsolete (but active) URLs are:
 + [MCDMlib (opened in 1998)](http://web.archive.org/web/20061205225020/http://www.univ-valenciennes.fr:80/ROAD/MCDM/)
 + [MOCOlib, the MOCO section of the MCDMlib (opened in 2007)](http://xgandibleux.free.fr/MOCOlib/index.html)
 + [GUEPARDlib (opened in 2010)](http://guepard.lip6.fr/Main/GuepardLib)
