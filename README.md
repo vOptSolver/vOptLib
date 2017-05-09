@@ -61,8 +61,8 @@ It is referenced from:
 + the [OR-Library](http://people.brunel.ac.uk/~mastjjb/jeb/info.html), item *Multiobjective optimisation*
 
 Amongst the instances available, the library hosts instances used by us during the following research projects:
-+ ANR project *Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems*
-+ ANR-DFG project *Exact efficient solution of mixed integer programming problems with multiple objective functions*
++ ANR project [Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems](http://guepard.lip6.fr/)
++ ANR-DFG project [Exact efficient solution of mixed integer programming problems with multiple objective functions](https://voptproject.wordpress.com/)
 
 The obsolete (but active) URL's are:
 + [MCDMlib (opened in 1998)](http://web.archive.org/web/20061205225020/http://www.univ-valenciennes.fr:80/ROAD/MCDM/)
