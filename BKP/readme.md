@@ -9,3 +9,7 @@ The 01 bidimensional knapsack problem with two linear objectives is defined as f
     s/t sum{j=1,…,n} w1_j x_j <= W1
         sum{j=1,…,n} w2_j x_j <= W2    
         x_j = 0 or 1                for j = 1,…,n
+        
+## Datasets 
+
++ (soon)        
