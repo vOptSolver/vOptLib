@@ -1,6 +1,6 @@
-# UKP: instances with repeated costs
+# UKP: class of instances with repeated costs
 
-This series proposes a class of instances where the costs are repeated several times in consecutive items for both objectives. 
+This series proposes two subclasses of instances namely 1B-C and 1B-D in [1], where the costs are repeated several times in consecutive items for both objectives. 
 
 This kind of instances have been proposed in the following paper.
 
@@ -8,7 +8,6 @@ This kind of instances have been proposed in the following paper.
  Un retour d'expérience sur la résolution de problèmes combinatoires bi-objectifs. 
  5e journée du groupe de travail Programmation Mathématique MultiObjectif (PM20), Angers, France, 17 mai 2002. 
 
-There are two subclasses in the instances provided by [1]: C and D. 
 
 + Generation of instances of class C:
 
