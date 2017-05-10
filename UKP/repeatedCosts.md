@@ -1,8 +1,7 @@
 # UKP: class of instances with repeated costs
 
 This series proposes two subclasses of instances namely 1B-C and 1B-D in [1], where the costs are repeated several times in consecutive items for both objectives. 
-
-This kind of instances have been proposed in [1]:
+They have been proposed in [1]:
 
 > [1] Fabien Degoutin and Xavier Gandibleux. 
  Un retour d'expérience sur la résolution de problèmes combinatoires bi-objectifs. 
