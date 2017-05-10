@@ -1,7 +1,6 @@
 # UKP: instances with repeated costs
 
-We consider here a very particular class of instances inside of which the costs 
-are repeated several times in consecutive items for both objectives. 
+This series proposes a class of instances where the costs are repeated several times in consecutive items for both objectives. 
 
 This kind of instances have been proposed in the following paper.
 
@@ -11,15 +10,18 @@ This kind of instances have been proposed in the following paper.
 
 There are two subclasses in the instances provided by [1]: C and D. 
 
-We describe first the generation of instances of class C. 
-A process is repeated to generated both objective costs. 
-The length l of a plateau is generated following an uniform distribution in {1,...,0.1n} where n is the size of the problem. 
-A cost is generated following an uniform distribution in {1,...,100} and is repeated l times. 
++ Generation of instances of class C:
+
+    The length $`l`$ of a plateau is generated following an uniform distribution in {1,...,0.1n} where $`n`$ is the size of the problem. 
+A cost is generated following an uniform distribution in {1,...,100} and is repeated $`l`$ times. 
 The weights are generated independently following an uniform distribution in {1,...,100}. 
+The principle is repeated until both objective costs are generated.
 
-The instances of class D are obtained from the instances of class C by replacing the first objective by the second in reverse order.
++ Generation of instances of class D:
 
-These instances are denoted by 2KPn-1C.dat or 2KPn-1D.dat where n is the size of the problem. 
+    The instances of class D are obtained from the instances of class C by replacing the first objective by the second in reverse order.
+
+These instances are denoted by 2KPn-1C.dat or 2KPn-1D.dat where $`n`$  is the size of the problem. 
 
 ## Format
 The format of all of these data files is:
