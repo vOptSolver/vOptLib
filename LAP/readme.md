@@ -13,9 +13,9 @@ The linear assigment problem with $`p`$ linear objectives is defined as follow:
 
 + **with 2 objectives:**
 
-    - to add                                                    
+    - (soon)                                                   
 
 
 + **with 3 objectives:**
 
-    - to add
+    - (soon)
