@@ -1,7 +1,7 @@
-# VOPTlib: Library of numerical instances for MultiObjective Linear Optimization problems
+# vOptLib: Library of numerical instances for MultiObjective Linear Optimization problems
 	
 ## About 
-VOPTlib (short for vector optimization library) is a collection problem instances for benchmarking multi-objective solvers.
+vOptLib (short for vector optimization library) is a collection problem instances for benchmarking multi-objective solvers.
 It covers a variety of Multiobjective linear optimization problems (multiobjective combinatorial problems, multiobjective integer linear programs, multiobjective mixed integer programs).
 The repository is maintained by Xavier.Gandibleux@univ-nantes.fr and Anthony.Przybylski@univ-nantes.fr
 
@@ -10,7 +10,7 @@ The repository is maintained by Xavier.Gandibleux@univ-nantes.fr and Anthony.Prz
  
 
 ## Problem Classes
-VOPTlib is organized in structured and non-structured problems.
+vOptLib is organized in structured and non-structured problems.
 It distinguishes the following problem classes:
 
 + **Multi-objective structured problems**
@@ -51,7 +51,7 @@ It distinguishes the following problem classes:
 
 ## Download
 The following instances can be downloaded and used for free. 
-If you use them for your research, we would appreciate a reference to VOPTlib in your publication. 
+If you use them for your research, we would appreciate a reference to vOptLib in your publication. 
 
 
 ## History
