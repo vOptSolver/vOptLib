@@ -6,8 +6,8 @@ It covers a variety of Multiobjective linear optimization problems (multiobjecti
 The repository is maintained by Xavier.Gandibleux@univ-nantes.fr and Anthony.Przybylski@univ-nantes.fr
 
 ## News
-02-Sep-2017: moved from gitlab to here (repository on gitlab will be closed soon)
-05-May-2017: New repository launched.
+	02-Sep-2017: moved from gitlab to here (repository on gitlab will be closed soon)
+	05-May-2017: New repository launched.
  
 
 ## Problem Classes
