@@ -63,7 +63,7 @@ It is referenced from:
 
 Amongst the instances available, the library hosts instances used by us during the following research projects:
 + ANR project [Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems](http://guepard.lip6.fr/)
-+ ANR-DFG project [Exact efficient solution of mixed integer programming problems with multiple objective functions](https://voptproject.wordpress.com/)
++ ANR-DFG project [Exact efficient solution of mixed integer programming problems with multiple objective functions](https://vopt-anr-dfg.univ-nantes.fr/)
 
 The obsolete (but active) URLs are:
 + [MCDMlib (opened in 1998)](http://web.archive.org/web/20061205225020/http://www.univ-valenciennes.fr:80/ROAD/MCDM/)
