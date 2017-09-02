@@ -70,8 +70,8 @@ The obsolete (but active) URLs are:
 + [MOCOlib, the MOCO section of the MCDMlib (opened in 2007)](http://xgandibleux.free.fr/MOCOlib/index.html)
 + [GUEPARDlib (opened in 2010)](http://guepard.lip6.fr/Main/GuepardLib)
 
-## Similar repositories
+## Others repositories
 
-- [MOREPO](https://github.com/MCDMSociety/MOrepo)
-- [MOPLIB](http://moplib.zib.de/)
-- [Gokhan Kirlik's instances](http://home.ku.edu.tr/~moolibrary/)
+- [MOREPO (since 2017)](https://github.com/MCDMSociety/MOrepo)
+- [MOPLIB (since 2016)](http://moplib.zib.de/)
+- [Gokhan Kirlik's instances (since 2016)](http://home.ku.edu.tr/~moolibrary/)
