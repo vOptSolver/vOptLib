@@ -71,7 +71,6 @@ The obsolete (but active) URLs are:
 + [GUEPARDlib (opened in 2010)](http://guepard.lip6.fr/Main/GuepardLib)
 
 ## Others repositories
-
+- [Gokhan Kirlik's instances (since 2014)](http://home.ku.edu.tr/~moolibrary/)
+- [MOPLIB (since 2015)](http://moplib.zib.de/)
 - [MOREPO (since 2017)](https://github.com/MCDMSociety/MOrepo)
-- [MOPLIB (since 2016)](http://moplib.zib.de/)
-- [Gokhan Kirlik's instances (since 2016)](http://home.ku.edu.tr/~moolibrary/)
