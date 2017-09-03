@@ -83,6 +83,7 @@ The obsolete (but active) URLs are:
 - [Fritz Bökler's instances (since 2015)](https://ls11-www.cs.tu-dortmund.de/staff/boekler/moco-instances)
 - [Boland et al. instances (since 2015)](http://www.eng.usf.edu/~hcharkhgard/library.html)
 - [MOREPO (since 2017)](https://github.com/MCDMSociety/MOrepo)
+- [Thibaut Lust's instances (since 2017)](https://www.ceadar.dit.ie/thibautlust/Research.html#Top)
 - [Aritra Pal's instances (since 2017)](https://github.com/aritrasep/Modolib.jl)
 
 If you are aware of the existence of a collection available online that is not listed here, please do not hesitate to contact us for adding a link to it.
