@@ -44,10 +44,10 @@ There are 05 instances:
 
 | ID            | Available | 
 | ------------- | --------- |
-| 2KP50-11.dat  | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1A) [![INFO file](../img/icon/dl-info.png "INFO file")](analyze/)   [![Y_N file](./img/icon/dl-z.png "Y_N file")](Y/)  [![X_E_M file](./img/icon/dl-x.png "X_E_M file")](X/) |
-| 2KP50-50.dat  | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1A) [![INFO file](../img/icon/dl-info.png "INFO file")](analyze/)   [![Y_N file](./img/icon/dl-z.png "Y_N file")](Y/)  [![X_E_M file](./img/icon/dl-x.png "X_E_M file")](X/) |
-| 2KP50-92.dat  | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1A) [![INFO file](../img/icon/dl-info.png "INFO file")](analyze/)   [![Y_N file](./img/icon/dl-z.png "Y_N file")](Y/)  [![X_E_M file](./img/icon/dl-x.png "X_E_M file")](X/) |
-| 2KP100-50.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1A) [![INFO file](../img/icon/dl-info.png "INFO file")](analyze/)   [![Y_N file](./img/icon/dl-z.png "Y_N file")](Y/)  [![X_E_M file](./img/icon/dl-x.png "X_E_M file")](X/) |   
+| 2KP50-11.dat  | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1A) [![INFO file](../img/icon/dl-info.png "INFO file")](analyze/)   [![Y_N file](../img/icon/dl-z.png "Y_N file")](Y/)  [![X_E_M file](./img/icon/dl-x.png "X_E_M file")](X/) |
+| 2KP50-50.dat  | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1A) [![INFO file](../img/icon/dl-info.png "INFO file")](analyze/)   [![Y_N file](../img/icon/dl-z.png "Y_N file")](Y/)  [![X_E_M file](../img/icon/dl-x.png "X_E_M file")](X/) |
+| 2KP50-92.dat  | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1A) [![INFO file](../img/icon/dl-info.png "INFO file")](analyze/)   [![Y_N file](../img/icon/dl-z.png "Y_N file")](Y/)  [![X_E_M file](../img/icon/dl-x.png "X_E_M file")](X/) |
+| 2KP100-50.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1A) [![INFO file](../img/icon/dl-info.png "INFO file")](analyze/)   [![Y_N file](../img/icon/dl-z.png "Y_N file")](Y/)  [![X_E_M file](../img/icon/dl-x.png "X_E_M file")](X/) |   
 | 2KP500-41.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1A) [![INFO file](../img/icon/dl-info.png "INFO file")](analyze/)  |
 
 Files contain data from [1]:
