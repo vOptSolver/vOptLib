@@ -5,7 +5,7 @@ vOptLib (short for vector optimization library) is a collection problem instance
 It covers a variety of Multiobjective linear optimization problems (multiobjective combinatorial problems, multiobjective integer linear programs, multiobjective mixed integer programs).
 Available online since 1998, and redesigned in 2017, the repository is currently maintained by Xavier.Gandibleux@univ-nantes.fr and Anthony.Przybylski@univ-nantes.fr
 
-If you have instances produced your own instances and you would like to contribute to vOptLib, please do not hesitate to contact us. 
+If you have produced your own instances and you would like to contribute to vOptLib, please do not hesitate to contact us. 
  
 ## News
 	02-Sep-2017: moved from gitlab to here (repository on gitlab will be closed soon)
