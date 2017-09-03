@@ -69,7 +69,8 @@ The obsolete (but active) URLs are:
 + [MCDMlib (since 1998)](http://web.archive.org/web/20061205225020/http://www.univ-valenciennes.fr:80/ROAD/MCDM/)
 + [MOCOlib, the MOCO section of the MCDMlib (since 2007)](http://xgandibleux.free.fr/MOCOlib/index.html)
 
-## Others repositories
+## Others collections
+- [Zitzler-Laumanns's instances (since 2001)](http://www.tik.ee.ethz.ch/sop/download/supplementary/testProblemSuite/)
 - [Luís Paquete's instances (since 2004)](https://apps.uc.pt/mypage/faculty/uc26679/en/software#BD)
 - [GUEPARDlib (since 2010)](http://guepard.lip6.fr/Main/GuepardLib)
 - [Gokhan Kirlik's instances (since 2014)](http://home.ku.edu.tr/~moolibrary/)
