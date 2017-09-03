@@ -77,6 +77,7 @@ The obsolete (but active) URLs are:
 - [GUEPARDlib (since 2010)](http://guepard.lip6.fr/Main/GuepardLib)
 - [Gokhan Kirlik's instances (since 2014)](http://home.ku.edu.tr/~moolibrary/)
 - [MOPLIB (since 2015)](http://moplib.zib.de/)
+- [Fritz Bökler (since 2015)](https://ls11-www.cs.tu-dortmund.de/staff/boekler/moco-instances)
 - [Boland et al. instances (since 2015)](http://www.eng.usf.edu/~hcharkhgard/library.html)
 - [MOREPO (since 2017)](https://github.com/MCDMSociety/MOrepo)
 - [Aritra Pal's instances (since 2017)](https://github.com/aritrasep/Modolib.jl)
