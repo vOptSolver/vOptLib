@@ -77,6 +77,7 @@ The obsolete (but active) URLs are:
 - [José Luis Esteves dos Santos's instances (since 2005)](http://www.mat.uc.pt/%7Ezeluis/INVESTIG/MSPP/mspp.htm#The_library)
 - [SOA problem instances (since 2008)](http://soa.iti.es/problem-instances)
 - [GUEPARDlib (since 2010)](http://guepard.lip6.fr/Main/GuepardLib)
+- [MoCObench (since 2012)](http://mocobench.sourceforge.net/)
 - [Gokhan Kirlik's instances (since 2014)](http://home.ku.edu.tr/~moolibrary/)
 - [MOPLIB (since 2015)](http://moplib.zib.de/)
 - [Fritz Bökler's instances (since 2015)](https://ls11-www.cs.tu-dortmund.de/staff/boekler/moco-instances)
