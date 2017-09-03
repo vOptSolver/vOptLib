@@ -66,8 +66,8 @@ Amongst the instances available, the library hosts instances used by us during t
 + ANR-DFG project [vOpt: Exact efficient solution of mixed integer programming problems with multiple objective functions](https://vopt-anr-dfg.univ-nantes.fr/)
 
 The obsolete (but active) URLs are:
-+ [MCDMlib (opened in 1998)](http://web.archive.org/web/20061205225020/http://www.univ-valenciennes.fr:80/ROAD/MCDM/)
-+ [MOCOlib, the MOCO section of the MCDMlib (opened in 2007)](http://xgandibleux.free.fr/MOCOlib/index.html)
++ [MCDMlib (since 1998)](http://web.archive.org/web/20061205225020/http://www.univ-valenciennes.fr:80/ROAD/MCDM/)
++ [MOCOlib, the MOCO section of the MCDMlib (since 2007)](http://xgandibleux.free.fr/MOCOlib/index.html)
 
 ## Others repositories
 - [GUEPARDlib (since 2010)](http://guepard.lip6.fr/Main/GuepardLib)
