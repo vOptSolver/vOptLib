@@ -77,6 +77,7 @@ The obsolete (but active) URLs are:
 - [GUEPARDlib (since 2010)](http://guepard.lip6.fr/Main/GuepardLib)
 - [Gokhan Kirlik's instances (since 2014)](http://home.ku.edu.tr/~moolibrary/)
 - [MOPLIB (since 2015)](http://moplib.zib.de/)
+- [Boland et al. instances (since 2015)](http://www.eng.usf.edu/~hcharkhgard/library.html)
 - [MOREPO (since 2017)](https://github.com/MCDMSociety/MOrepo)
 
 If you are aware of the existence of a collection available online that is not listed here, please do not hesitate to contact us for adding a link to it.
