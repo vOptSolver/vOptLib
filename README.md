@@ -62,15 +62,15 @@ It is referenced from:
 + the [OR-Library](http://people.brunel.ac.uk/~mastjjb/jeb/info.html), item *Multiobjective optimisation*
 
 Amongst the instances available, the library hosts instances used by us during the following research projects:
-+ ANR project [Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems](http://guepard.lip6.fr/)
-+ ANR-DFG project [Exact efficient solution of mixed integer programming problems with multiple objective functions](https://vopt-anr-dfg.univ-nantes.fr/)
++ ANR project [GUEPARD: Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems](http://guepard.lip6.fr/)
++ ANR-DFG project [vOpt: Exact efficient solution of mixed integer programming problems with multiple objective functions](https://vopt-anr-dfg.univ-nantes.fr/)
 
 The obsolete (but active) URLs are:
 + [MCDMlib (opened in 1998)](http://web.archive.org/web/20061205225020/http://www.univ-valenciennes.fr:80/ROAD/MCDM/)
 + [MOCOlib, the MOCO section of the MCDMlib (opened in 2007)](http://xgandibleux.free.fr/MOCOlib/index.html)
-+ [GUEPARDlib (opened in 2010)](http://guepard.lip6.fr/Main/GuepardLib)
 
 ## Others repositories
+- [GUEPARDlib (since 2010)](http://guepard.lip6.fr/Main/GuepardLib)
 - [Gokhan Kirlik's instances (since 2014)](http://home.ku.edu.tr/~moolibrary/)
 - [MOPLIB (since 2015)](http://moplib.zib.de/)
 - [MOREPO (since 2017)](https://github.com/MCDMSociety/MOrepo)
