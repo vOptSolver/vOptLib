@@ -77,3 +77,4 @@ The obsolete (but active) URLs are:
 - [Gokhan Kirlik's instances (since 2014)](http://home.ku.edu.tr/~moolibrary/)
 - [MOPLIB (since 2015)](http://moplib.zib.de/)
 - [MOREPO (since 2017)](https://github.com/MCDMSociety/MOrepo)
+If you are aware of a collection of instances available online, please do not hesitate to contact us in order to add a link here.
