@@ -72,6 +72,7 @@ The obsolete (but active) URLs are:
 ## Others collections
 - [Zitzler-Laumanns's instances (since 2001)](http://www.tik.ee.ethz.ch/sop/download/supplementary/testProblemSuite/)
 - [Luís Paquete's instances (since 2004)](https://apps.uc.pt/mypage/faculty/uc26679/en/software#BD)
+- [Joshua Knowles's instances (since 2004)](http://www.cs.bham.ac.uk/~jdk/mQAP/)
 - [GUEPARDlib (since 2010)](http://guepard.lip6.fr/Main/GuepardLib)
 - [Gokhan Kirlik's instances (since 2014)](http://home.ku.edu.tr/~moolibrary/)
 - [MOPLIB (since 2015)](http://moplib.zib.de/)
