@@ -42,13 +42,13 @@ Legend:
 
 ID : instance's name
 
-[![instance file](./img/icon/dl-instance.png "instance file")](instances/) : instance's file 
+[![instance file](../img/icon/dl-instance.png "instance file")](instances/) : instance's file 
 
-[![INFO file](./img/icon/dl-info.png "INFO file")](analyze/) : report about the numerical characteristics
+[![INFO file](../img/icon/dl-info.png "INFO file")](analyze/) : report about the numerical characteristics
 
-[![Y_N file](./img/icon/dl-z.png "Y_N file")](Y/) : set of non dominated points
+[![Y_N file](../img/icon/dl-z.png "Y_N file")](Y/) : set of non dominated points
 
-[![X_E_M file](./img/icon/dl-x.png "X_E_M file")](X/) : Maximum complete set of efficient solutions
+[![X_E_M file](../img/icon/dl-x.png "X_E_M file")](X/) : Maximum complete set of efficient solutions
 
 
 ***
@@ -59,16 +59,16 @@ There are 10 instances:
 
 | ID            | Available | 
 | ------------- | --------- |
-| 2KP50-1C.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-C) |
-| 2KP100-1C.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-C) |
-| 2KP150-1C.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-C) |
-| 2KP200-1C.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-C) |
-| 2KP250-1C.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-C) |
-| 2KP300-1C.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-C) |
-| 2KP350-1C.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-C) |
-| 2KP400-1C.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-C) |
-| 2KP450-1C.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-C) |
-| 2KP500-1C.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-C) |
+| 2KP50-1C.dat  | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-C) |
+| 2KP100-1C.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-C) |
+| 2KP150-1C.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-C) |
+| 2KP200-1C.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-C) |
+| 2KP250-1C.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-C) |
+| 2KP300-1C.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-C) |
+| 2KP350-1C.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-C) |
+| 2KP400-1C.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-C) |
+| 2KP450-1C.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-C) |
+| 2KP500-1C.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-C) |
 
 ***
 
@@ -78,15 +78,15 @@ There are 10 instances:
 
 | ID            | Available | 
 | ------------- | --------- |
-| 2KP50-1D.dat  | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-D) |
-| 2KP100-1D.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-D) |
-| 2KP150-1D.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-D) |
-| 2KP200-1D.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-D) |
-| 2KP250-1D.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-D) |
-| 2KP300-1D.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-D) |
-| 2KP350-1D.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-D) |
-| 2KP400-1D.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-D) |
-| 2KP450-1D.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-D) |
-| 2KP500-1D.dat | [![instance file](./img/icon/dl-instance.png "instance file")](instances/1B-D) |
+| 2KP50-1D.dat  | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-D) |
+| 2KP100-1D.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-D) |
+| 2KP150-1D.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-D) |
+| 2KP200-1D.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-D) |
+| 2KP250-1D.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-D) |
+| 2KP300-1D.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-D) |
+| 2KP350-1D.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-D) |
+| 2KP400-1D.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-D) |
+| 2KP450-1D.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-D) |
+| 2KP500-1D.dat | [![instance file](../img/icon/dl-instance.png "instance file")](instances/1B-D) |
 
 
