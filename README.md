@@ -7,6 +7,7 @@ It covers a variety of Multiobjective linear optimization problems (multiobjecti
 Available online since 1998, and redesigned in 2017, the repository is currently maintained by Xavier.Gandibleux@univ-nantes.fr and Anthony.Przybylski@univ-nantes.fr  If you have produced your own instances and you would like to become contributor to vOptLib with your collection, please do not hesitate to contact us.
 
 ## News
+	12-Jul-2021: instances of set partitioning problem uploaded
 	02-Sep-2017: moved from gitlab to here (repository on gitlab will be closed soon)
 	05-May-2017: New repository launched.
  
@@ -26,6 +27,8 @@ It distinguishes the following problem classes:
     - [0/1 bidimensional knapsack problem (BKP)](BKP/readme.md)  
     
     - [Set covering problem (SCP)](SCP/readme.md)    
+
+    - [Set partitioning problem (SPA)](SPA/readme.md) 
     
     - [Set packing problem (SPP)](SPP/readme.md)    
     
