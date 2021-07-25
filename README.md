@@ -66,7 +66,7 @@ It is referenced from:
 + the [OR-Library](http://people.brunel.ac.uk/~mastjjb/jeb/info.html), item *Multiobjective optimisation*
 
 Amongst the instances available, the library hosts instances used by us during the following research projects:
-+ ANR project [GUEPARD: Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems](http://guepard.lip6.fr/)
++ ANR project [GUEPARD: Guaranteed efficiency for pareto optimal solutions determination in multiobjective combinatorial optimization problems](http://web.archive.org/web/20150906095035/http://guepard.lip6.fr/Main/GuepardLib)
 + ANR-DFG project [vOpt: Exact efficient solution of mixed integer programming problems with multiple objective functions](https://vopt-anr-dfg.univ-nantes.fr/)
 
 The obsolete (but active) URLs are:
