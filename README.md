@@ -74,7 +74,7 @@ The obsolete (but active) URLs are:
 + [MOCOlib, the MOCO section of the MCDMlib (since 2007)](http://xgandibleux.free.fr/MOCOlib/index.html)
 
 ## Others collections
-- [Zitzler-Laumanns's instances (since 2001)](http://www.tik.ee.ethz.ch/sop/download/supplementary/testProblemSuite/)
+- [Zitzler-Laumanns's instances (since 2001)](https://sop.tik.ee.ethz.ch/download/supplementary/testProblemSuite/)
 - [Joshua Knowles's instances (since 2002)](http://www.cs.bham.ac.uk/~jdk/mQAP/)
 - [Luís Paquete's instances (since 2004)](https://apps.uc.pt/mypage/faculty/uc26679/en/software#BD)
 - [José Luis Esteves dos Santos's instances (since 2005)](http://www.mat.uc.pt/%7Ezeluis/INVESTIG/MSPP/mspp.htm#The_library)
