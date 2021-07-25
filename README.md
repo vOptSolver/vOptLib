@@ -84,7 +84,7 @@ The obsolete (but active) URLs are:
 - [Gokhan Kirlik's instances (since 2014)](http://home.ku.edu.tr/~moolibrary/)
 - [MOPLIB (since 2015)](http://web.archive.org/web/20170504102211/http://moplib.zib.de:80/)
 - [Fritz Bökler's instances (since 2015)](https://ls11-www.cs.tu-dortmund.de/staff/boekler/moco-instances)
-- [Boland-Charkhgard-Savelsbergh's instances (since 2015)](http://www.eng.usf.edu/~hcharkhgard/library.html)
+- [Boland-Charkhgard-Savelsbergh's instances (since 2015)](http://web.archive.org/web/20200221001500/http://www.eng.usf.edu/~hcharkhgard/library.html)
 - [MOREPO (since 2017)](https://github.com/MCDMSociety/MOrepo)
 - [Thibaut Lust's instances (since 2017)](https://www.ceadar.dit.ie/thibautlust/Research.html#Top)
 - [Aritra Pal's instances (since 2017)](https://github.com/aritrasep/Modolib.jl)
