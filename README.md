@@ -25,7 +25,7 @@ It distinguishes the following problem classes:
 
     - [0/1 unidimensional knapsack problem (UKP)](UKP/readme.md)     
 
-    - [0/1 bidimensional knapsack problem (BKP)](BKP/readme.md)  
+    - [0/1 bidimensional knapsack problem (BKP)](https://github.com/vOptSolver/vOptLib/tree/master/BKP%20(working%20on%20it))
     
     - [Set covering problem (SCP)](SCP/readme.md)    
 
