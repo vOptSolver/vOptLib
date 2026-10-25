@@ -11,7 +11,7 @@ The 0/1 uncapacitated facility location problem with two objectives is defined a
         x(i,j) = 0 or 1              for i=1,…,nI; j=1,…,nJ
         s(j) = 0 or 1                for j=1,…,nJ  
 
-## Definition (Mixed case)
+## Definition (Mixed integer case)
 The mixed integer uncapacitated facility location problem with two objectives is defined as follow:
 
     Min sum{i=1,...,nI;j=1,…,nJ} c1(i,j) x(i,j) + sum{j=1,…,nJ} r1(j) s(j)
