@@ -28,7 +28,8 @@ The mixed integer uncapacitated facility location problem with two objectives is
 
     - [dataDidactic](data2012.md)  
     - [dataFernandez](data2012.md)  
-    - [dataHarris](data2012.md)  
+    - [dataHarris](data2012.md)
+    - [dataBeasley](data2012.md)
 
 + **Mixed integer case with 2 objectives:**
 

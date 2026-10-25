@@ -7,7 +7,7 @@ It covers a variety of Multiobjective linear optimization problems (multiobjecti
 Available online since 1998, and redesigned in 2017, the repository is currently maintained by Xavier.Gandibleux@univ-nantes.fr  If you have produced your own instances and you would like to become contributor to vOptLib with your collection, please do not hesitate to contact me.
 
 ## News
-	25-Oct-2026: 71 instances of uncapacited facility location problem uploaded
+	25-Oct-2026: 81 instances of uncapacited facility location problem uploaded
 	03-Sep-2022: 35 instances of uncapacited facility location problem uploaded
 	12-Jul-2021: instances of set partitioning problem uploaded
 	02-Sep-2017: moved from gitlab to here (repository on gitlab will be closed soon)
