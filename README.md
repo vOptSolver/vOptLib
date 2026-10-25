@@ -20,8 +20,6 @@ It distinguishes the following problem classes:
 
 + **Multi-objective structured problems**
 
-    Several linear objectives; feasible region is a polyhedron with a structure; all variables are restricted to be binary.
-
     - [Linear assignment problem (LAP)](https://github.com/vOptSolver/vOptLib/tree/master/LAP%20(working%20on%20it))
 
     - [0/1 unidimensional knapsack problem (UKP)](UKP/readme.md)     
@@ -34,24 +32,14 @@ It distinguishes the following problem classes:
     
     - [Set packing problem (SPP)](SPP/readme.md)    
     
-    - [0/1 uncapacited facility location problem (BUFLP)](UFLP/readme.md)
-    
-    - Single source capacited facility location problem (SSCFLP)
-    
-    Several linear objectives; feasible region is a polyhedron with a structure; some but not all of the variables are restricted to be integer.        
-
-    - [Mixed integer uncapacited facility location problem (MUFLP)](UFLP/readme.md)
+    - [Uncapacited facility location problem (UFLP)](UFLP/readme.md)
     
     - Capacited facility location problem (CFLP)  
 
 
 + **Multi-objective non-structured problems**
-
-    Several linear objectives; feasible region is a polyhedron; all variables are restricted to be integer.
     
     - Integer program (MOIP) 
-    
-    Several linear objectives; feasible region is a polyhedron; some but not all of the variables are restricted to be integer.
 
     - Mixed integer program (MOMIP)
     
