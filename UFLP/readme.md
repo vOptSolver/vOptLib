@@ -1,4 +1,4 @@
-# Multiobjective 0/1 Uncapacitated Facility Location Problems (UFLP)
+# Multiobjective Uncapacitated Facility Location Problems (UFLP)
 
 
 ## Definition (0/1 case)
